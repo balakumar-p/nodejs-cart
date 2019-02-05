@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Pencils",
+    "description": "Pencils are <span class=\"label label-info\">5 Rs each</span>",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "title": "Pens",
+    "description": "Pens are <span class=\"label label-info\">10 Rs each</span>",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "title": "Boxs",
+    "description": "Boxes are <span class=\"label label-info\">15 Rs each</span>",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "NoteBooks",
+    "description": "NoteBooks are <span class=\"label label-info\">25 Rs each</span>, but are <span class=\"label label-warning\">available as 3 for the price of 2</span>",
+    "price": 50
+  }
+]
